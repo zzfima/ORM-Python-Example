@@ -1,6 +1,6 @@
 # ORM-Python-Example
 
-###After this tutorial you will be able to:
+### After this tutorial you will be able to:
 * Create Table in MySQL
 * Add Data to MySQL Table
 * Query table in Python in SQL manner
